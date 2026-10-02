@@ -1,6 +1,6 @@
-# Monochrome — Omarchy Theme
+# Achromatic — Omarchy Theme
 
-A minimal **dark monochrome** theme for [Omarchy](https://omarchy.org/).
+A minimal **dark achromatic** theme for [Omarchy](https://omarchy.org/).
 
 ## Preview
 
@@ -23,7 +23,7 @@ omarchy theme install https://github.com/yks777/omarchy-monochrome-theme
 Then apply it:
 
 ```bash
-omarchy theme set monochrome
+omarchy theme set achromatic
 ```
 
 ## What's Included
