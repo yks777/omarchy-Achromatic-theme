@@ -11,13 +11,13 @@ A minimal **dark achromatic** theme for [Omarchy](https://omarchy.org/).
 Install via **Install > Style > Theme** in the Omarchy menu, then paste:
 
 ```
-https://github.com/yks777/omarchy-monochrome-theme
+https://github.com/yks777/omarchy-Achromatic-theme
 ```
 
 Or from the command line:
 
 ```bash
-omarchy theme install https://github.com/yks777/omarchy-monochrome-theme
+omarchy theme install https://github.com/yks777/omarchy-Achromatic-theme
 ```
 
 Then apply it:
