@@ -8,16 +8,22 @@ A minimal **dark monochrome** theme for [Omarchy](https://omarchy.org/).
 
 ## Installation
 
-Clone this repo into your Omarchy themes directory:
+Install via **Install > Style > Theme** in the Omarchy menu, then paste:
+
+```
+https://github.com/yks777/omarchy-monochrome-theme
+```
+
+Or from the command line:
 
 ```bash
-git clone <repo-url> ~/.config/omarchy/themes/monochrome
+omarchy theme install https://github.com/yks777/omarchy-monochrome-theme
 ```
 
 Then apply it:
 
 ```bash
-omarchy-theme-set monochrome
+omarchy theme set monochrome
 ```
 
 ## What's Included
