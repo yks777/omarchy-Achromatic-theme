@@ -1,7 +1,5 @@
 # Monochrome — Omarchy Theme
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
 A minimal **dark monochrome** theme for [Omarchy](https://omarchy.org/).
 
 ## Preview
